@@ -1,0 +1,50 @@
+{
+  "animateLoading": true,
+  "bottomRow": 11,
+  "capSide": 0,
+  "capType": "nc",
+  "displayName": "Divider",
+  "dividerColor": "#858282",
+  "dynamicBindingPathList": [],
+  "hideCard": false,
+  "iconSVG": "/static/media/icon.2d8f0568561ab85a8d38356420942b62.svg",
+  "isDeprecated": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "5mkee2parj",
+  "leftColumn": 1,
+  "minWidth": 450,
+  "mobileBottomRow": 11,
+  "mobileLeftColumn": 1,
+  "mobileRightColumn": 21,
+  "mobileTopRow": 7,
+  "needsErrorInfo": false,
+  "onCanvasUI": {
+    "disableParentSelection": false,
+    "focusBGCSSVar": "--on-canvas-ui-widget-focus",
+    "focusColorCSSVar": "--on-canvas-ui-widget-selection",
+    "selectionBGCSSVar": "--on-canvas-ui-widget-selection",
+    "selectionColorCSSVar": "--on-canvas-ui-widget-focus"
+  },
+  "orientation": "horizontal",
+  "parentColumnSpace": 10.091796875,
+  "parentId": "yx3s06re6b",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 63,
+  "searchTags": [
+    "line"
+  ],
+  "strokeStyle": "solid",
+  "tags": [
+    "Layout"
+  ],
+  "thickness": 2,
+  "thumbnailSVG": "/static/media/thumbnail.85250b0a5e6d690bf6499c965e769b14.svg",
+  "topRow": 7,
+  "type": "DIVIDER_WIDGET",
+  "version": 1,
+  "widgetId": "r3twsm16oo",
+  "widgetName": "Divider1"
+}
