@@ -1,0 +1,58 @@
+{
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 16,
+  "counterClosewise": false,
+  "displayName": "Progress",
+  "dynamicBindingPathList": [
+    {
+      "key": "fillColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "fillColor": "{{appsmith.theme.colors.primaryColor}}",
+  "hideCard": false,
+  "iconSVG": "/static/media/icon.4427604c19b1a86ffdf81f77957632bd.svg",
+  "isCanvas": false,
+  "isDeprecated": false,
+  "isIndeterminate": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "yqzcfrvlrx",
+  "leftColumn": 1,
+  "mobileBottomRow": 16,
+  "mobileLeftColumn": 1,
+  "mobileRightColumn": 29,
+  "mobileTopRow": 12,
+  "needsErrorInfo": false,
+  "onCanvasUI": {
+    "disableParentSelection": false,
+    "focusBGCSSVar": "--on-canvas-ui-widget-focus",
+    "focusColorCSSVar": "--on-canvas-ui-widget-selection",
+    "selectionBGCSSVar": "--on-canvas-ui-widget-selection",
+    "selectionColorCSSVar": "--on-canvas-ui-widget-focus"
+  },
+  "parentColumnSpace": 10.091796875,
+  "parentId": "yx3s06re6b",
+  "parentRowSpace": 10,
+  "progress": 50,
+  "progressType": "linear",
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 29,
+  "searchTags": [
+    "percent"
+  ],
+  "showResult": false,
+  "steps": 1,
+  "tags": [
+    "Content"
+  ],
+  "thumbnailSVG": "/static/media/thumbnail.b99132f26b7fae778b21ebedf9748338.svg",
+  "topRow": 12,
+  "type": "PROGRESS_WIDGET",
+  "version": 1,
+  "widgetId": "2ger753zv8",
+  "widgetName": "Progress1"
+}
